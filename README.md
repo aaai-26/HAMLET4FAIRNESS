@@ -1,6 +1,7 @@
 # HAMLET: Human-centered AutoMl via Logic and argumEnTation
 
-This is the implementation of the off-the-shelf framework **HAMLET4Fairness**, proposed in the paper: **HAMLET4Fairness: Enhancing Fairness in AI Pipelines through Human-Centered AutoML and Argumentation**.
+This is the implementation of the off-the-shelf framework **HAMLET4Fairness**, presented during the AAAI-26 proceedings in the paper: **HAMLET4Fairness: Enhancing Fairness in AI Pipelines through Human-Centered AutoML and Argumentation**.
+To reproduce the experiments performed in the paper, please refer to the [GitHub repository](https://github.com/kr-25/HAMLET4FAIRNESS-eval).
 
 ## Requirements
 
